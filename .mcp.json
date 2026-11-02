@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "data-explorer": {
+      "command": "python",
+      "args": ["server.py"]
+    }
+  }
+}
